@@ -84,7 +84,7 @@ out
 
 # Gatsby
 .cache/
-public
+
 
 # Storybook build outputs
 storybook-static
